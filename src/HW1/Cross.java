@@ -1,5 +1,6 @@
 package HW1;
 
+
 import HW1.Course;
 
 public class Cross implements Course {

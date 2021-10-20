@@ -1,5 +1,6 @@
 package HW1;
 
+
 import HW1.Athlete;
 import HW1.BicycleRush;
 import HW1.Course;

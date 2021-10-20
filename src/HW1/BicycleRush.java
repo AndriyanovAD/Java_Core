@@ -1,5 +1,6 @@
 package HW1;
 
+
 public class BicycleRush implements Course {
     private int distance;
 
