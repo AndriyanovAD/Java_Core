@@ -1,5 +1,6 @@
 package HW1;
 
+
 public class Athlete extends Human implements Team {
     private int maxRun;
     private int maxSwim;

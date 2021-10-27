@@ -1,5 +1,6 @@
 package HW1;
 
+
 public class Human {
     private String name;
     private String gender;
